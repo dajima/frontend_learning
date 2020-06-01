@@ -1,21 +1,21 @@
 # 最近学习计划 
-## 1 ##
+## 1 
 目前要学习的包含kernel提权、CTF视频学习、前端学习、CISSP学习
 优先级：
 CISSP>前端》kernel（感觉基本的都懂了，就差debug一个）>CTF视频（无聊的时候看）
-##2##
+## 2
 时间安排：
 路上和晚上、周末需要学习CISSP，给出具体计划表？
 前端学习和git以及项目开发能力一起积累，包含算法和编程能力，需要给出时间表。
-#开发工具#
+# 开发工具
 暂定webstorm，懒得配置插件了，以后熟练了换vscode
-#学习教程#
+# 学习教程
 不参考书本
 网页教程以MSDN为主，配合W3SCHOOL
 https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
 视频教程参考B站https://www.bilibili.com/video/BV1Bb411v7w8?p=900
-#课程学习#
-##网站开发前##
+# 课程学习
+## 网站开发前
 1. 做好规划，画好草图
 2. 选定内容，这些Google都可以选择后生成代码片段？ 神奇哦
 * 准备好标题和文字
@@ -28,7 +28,7 @@ https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
   styles/
   scripts/
 
-#HTML#
+## HTML
 HTML是定义内容结构的标记型语言，由一个个元素组成
    ----------内容----  
    |                 |
