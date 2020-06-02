@@ -90,5 +90,5 @@
 # 总结
 学完了CSS的初步介绍，可以先个简单的页面，还是要多实践才能学会。
 结果
-![image]https://github.com/dajima/frontend_learning/blob/master/day2/project/images/day2.png
+![image](https://github.com/dajima/frontend_learning/blob/master/day2/project/images/day2.png)
 
