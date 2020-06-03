@@ -1,0 +1,28 @@
+html {
+    background-color: aquamarine;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+body {
+    border: 5px solid black;
+    width: 600px;
+    margin: 0  auto;
+    height: 800px;
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    text-shadow: 5px 5px 5px blue;
+}
+
+ul {
+    border:  solid 2px;
+    margin: 10px 5px;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+
+}
