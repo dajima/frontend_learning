@@ -1,0 +1,15 @@
+html {
+    background-color: #a9a9a9;
+}
+
+body {
+    background-color: blue;
+    width: 800px;
+    margin: 0 auto;
+    height: 1000px;
+}
+
+h1 {
+    font-family: 'Long Cang', cursive;
+        color: #2a2a2a;
+}
